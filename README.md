@@ -1,5 +1,5 @@
 ColorNet Webapp Documentation
-Forrest Zach
+
 
 Basics:
 The current ColorNet Web Application tech stack utilizes React for the frontend and Flask (Python) for the backend/API. Nginx is used as the web server hosting service while Gunicorn is the web server gateway interface (WSGI) which provides an interface for the backend. All of this code is stored and runs on our current IBM Watson Machine where the webapp is actively developed and deployed on.
