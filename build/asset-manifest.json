@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a65c73eb.css",
+    "main.js": "/static/js/main.bef56488.js",
+    "static/js/787.3b10f587.chunk.js": "/static/js/787.3b10f587.chunk.js",
+    "static/media/colorNetLogo.jpg": "/static/media/colorNetLogo.4364bf0820a614c1e589.jpg",
+    "index.html": "/index.html",
+    "main.a65c73eb.css.map": "/static/css/main.a65c73eb.css.map",
+    "main.bef56488.js.map": "/static/js/main.bef56488.js.map",
+    "787.3b10f587.chunk.js.map": "/static/js/787.3b10f587.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a65c73eb.css",
+    "static/js/main.bef56488.js"
+  ]
+}
